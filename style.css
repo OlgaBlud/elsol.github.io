@@ -17,6 +17,13 @@ main {
 }
 .name {
   grid-area: n;
+  position: absolute;
+  top: 50px;        
+  margin: auto 0;
+  margin-left: 400px;
+  letter-spacing: 5px;
+  width: 15;
+  border-bottom: 9px solid #fcc300;
 }
 .about {
   grid-area: a;
@@ -30,3 +37,29 @@ main {
 .contact {
   grid-area: c;
 }
+h1 {
+  margin: 20px;}
+  h2,h3, h4, h5 {
+    text-align: center;
+          
+  }
+  
+  h3 {
+    color: #fcc300;
+    font-size: 24px;
+    text-decoration: underline;
+       
+  }
+  
+  h4 {
+    color: #fcc300;
+    text-decoration: underline;
+    letter-spacing: 2px;
+    font-size: 24px;
+  }
+   
+  ul {
+      margin-left: auto;
+      margin-right: auto;
+      width: 20em;
+  }
