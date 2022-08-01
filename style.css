@@ -30,6 +30,11 @@ main {
 }
 .terms {
   grid-area: t;
+  height: 370px;
+  width: 100%;
+  text-align: left;
+  line-height: 30px;
+  padding-top: 30px;
 }
 .start {
   grid-area: s;
