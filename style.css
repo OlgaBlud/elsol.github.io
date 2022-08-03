@@ -47,6 +47,7 @@ main {
   border: 1mm solid#701255;
   margin: 15px;
   padding: 15px;
+  text-align: center;
   }
 .orange {
   color: orange;
