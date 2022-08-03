@@ -23,7 +23,7 @@ main {
   margin-left: 400px;
   letter-spacing: 5px;
   width: 15;
-  border-bottom: 9px solid #fcc300;
+  /* border-bottom: 9px solid #fcc300; */
 }
 .about {
   grid-area: a;
