@@ -1,7 +1,7 @@
 main {
   margin: 15px;
   padding: 15px;
-  border: 2mm solid#5B1A8E;
+  border: 2mm solid#701255;
   align-content: center;
   display: grid;
   grid-template-columns: repeat(2, 1fr);
@@ -18,9 +18,9 @@ main {
 .name {
   grid-area: n;
   position: absolute;
-  top: 50px;        
+  top: 100px;
   margin: auto 0;
-  margin-left: 400px;
+  margin-left: 300px;
   letter-spacing: 5px;
   width: 15;
   /* border-bottom: 9px solid #fcc300; */
@@ -50,7 +50,7 @@ main {
   text-align: center;
   }
 .orange {
-  color: orange;
+  color: #fcc300;
   text-align: center;
   font-size: 29px;
 }
@@ -59,9 +59,10 @@ main {
   padding: 15px;
 }
 h1 {
-  margin: 20px;
+  margin: 0px;
   color: #5B1A8E;
   font-size: 36px;
+  text-align: center;
 }
 h2 {
   font-size: 30px;
